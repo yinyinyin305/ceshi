@@ -159,19 +159,19 @@ http://szlive.grtn.cn/ydpd/sd/live.m3u8?_upt=3b06cdec1632253532&auth_key=1632289
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",岭南戏曲
 http://szlive.grtn.cn/lnxq/sd/live.m3u8?auth_key=1632292192-0-0-db9033202a185bc66709c2a0bc87ec37
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS1经济科教
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS1 经济科教
 http://jjtctv.gdtv.cn/live/jjkj.m3u8?auth_key=1632292316-0-0-c6520a43befc19f18ac6196de5fbd880&auth_key=1632292316-0-0-fe4c501332d6c519e025c75889e2db50
 
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东",TVS2南方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东",TVS2 南方卫视
 http://nftctv.gdtv.cn/live/nfws.m3u8?auth_key=1632289395-0-0-0717f81d9747bec602efb78f67a0828b&auth_key=1632289395-0-0-3dca41f7449393fdf88bf0c935f80bf2
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS3广东综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS3 广东综艺
 http://zytctv.gdtv.cn/live/gdzy.m3u8?auth_key=1632292421-0-0-7a1f6322481d54d372d4c5865a47ae07&auth_key=1632292421-0-0-60bbc5fa75199c8aff30782f96f33198
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS4广东影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS4 广东影视
 http://ystctv.gdtv.cn/live/gdys.m3u8?auth_key=1632290527-0-0-d5c375fc98204e606ba56e3e71613146&auth_key=1632290527-0-0-37a48d4a891fa52972164caee2b52024
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS5广东少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS5 广东少儿
 http://setctv.gdtv.cn/live/gdse.m3u8?auth_key=1632290318-0-0-6d4fee877d2bdcb6591dee34022d4bf8&auth_key=1632290318-0-0-591221629c18137a15b8cfa90027cd5f
 
 #EXTINF:-1 tvg-id="GuangDongNanFangWeiShiDiMian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东南方卫视地面
