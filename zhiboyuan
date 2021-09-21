@@ -144,7 +144,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东体育
 http://tytctv.gdtv.cn/live/gdty.m3u8?auth_key=1632291892-0-0-19e30e1ab0c731f4dc7004c6019a2722&auth_key=1632291892-0-0-6c244698f2a4c44a644f90bfe86fff74
 
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江
 http://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1632291133-0-0-044de5a0f427d19ae8cdf54868f1d857&auth_key=1632291133-0-0-8aee9b138710feb4d873162340b00a97
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东公共
