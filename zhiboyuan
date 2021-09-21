@@ -32,8 +32,56 @@ http://124.232.231.246:6610/000000001001/201500000134/index.m3u8?IASHttpSessionI
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225749/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业农村 (1080p)
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226027/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视FHD
+http://124.232.231.246:6610/000000001001/201500000233/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视FHD
+http://124.232.231.246:6610/000000001001/201500000064/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225752/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225751/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视FHD
+http://124.232.231.246:6610/000000001001/201500000065/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视FHD
+http://124.232.231.246:6610/000000001001/201500000066/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225739/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视FHD
+http://124.232.231.246:6610/000000001001/201500000123/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225686/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视FHD
+http://124.232.231.246:6610/000000001001/201500000159/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视FHD
+http://124.232.231.246:6610/000000001001/201500000071/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视FHD
+http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225717/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视FHD
+http://124.232.231.246:6610/000000001001/201500000072/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",金鹰卡通FHD
+http://124.232.231.246:6610/000000001001/201500000154/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="卫视",金鹰纪实FHD
+http://124.232.231.246:6610/000000001001/201500000240/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 #EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台",TVB明珠台
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=1&Pcontent_id=.m3u8&Provider_id=
 
