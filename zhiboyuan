@@ -144,14 +144,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 #EXTINF:-1 tvg-id="GuangDongTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东体育
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=8&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="广东",广东珠江
-http://zjtctv.gdtv.cn/live/gdzj.m3u8?auth_key=1632291133-0-0-044de5a0f427d19ae8cdf54868f1d857&auth_key=1632291133-0-0-8aee9b138710feb4d873162340b00a97
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东公共
-http://ggtctv.gdtv.cn/live/gdgg.m3u8?auth_key=1632292053-0-0-e75cee531e842505a72d24666b60a21c&auth_key=1632292053-0-0-6ee71da1278daca9d9388556187dcb04
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东新闻
-http://xwtctv.gdtv.cn/live/xwpd.m3u8?auth_key=1632287571-0-0-2aa24efeca951b9dd98e5b79632616dc&auth_key=1632287571-0-0-4c8fe880c7b09399196a4d1befbef11f
+#EXTINF:-1 tvg-id="GuangDongZhuJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东珠江 (1080p)
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",广东移动
 http://szlive.grtn.cn/ydpd/sd/live.m3u8?_upt=3b06cdec1632253532&auth_key=1632289907-0-0-26e137a543e0a0db531e317b17e1cb3f
@@ -159,47 +153,29 @@ http://szlive.grtn.cn/ydpd/sd/live.m3u8?_upt=3b06cdec1632253532&auth_key=1632289
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",岭南戏曲
 http://szlive.grtn.cn/lnxq/sd/live.m3u8?auth_key=1632292192-0-0-db9033202a185bc66709c2a0bc87ec37
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS1 经济科教
-http://jjtctv.gdtv.cn/live/jjkj.m3u8?auth_key=1632292316-0-0-c6520a43befc19f18ac6196de5fbd880&auth_key=1632292316-0-0-fe4c501332d6c519e025c75889e2db50
-
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="广东",TVS2 南方卫视
-http://nftctv.gdtv.cn/live/nfws.m3u8?auth_key=1632289395-0-0-0717f81d9747bec602efb78f67a0828b&auth_key=1632289395-0-0-3dca41f7449393fdf88bf0c935f80bf2
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS3 广东综艺
-http://zytctv.gdtv.cn/live/gdzy.m3u8?auth_key=1632292421-0-0-7a1f6322481d54d372d4c5865a47ae07&auth_key=1632292421-0-0-60bbc5fa75199c8aff30782f96f33198
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS4 广东影视
-http://ystctv.gdtv.cn/live/gdys.m3u8?auth_key=1632290527-0-0-d5c375fc98204e606ba56e3e71613146&auth_key=1632290527-0-0-37a48d4a891fa52972164caee2b52024
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",TVS5 广东少儿
-http://setctv.gdtv.cn/live/gdse.m3u8?auth_key=1632290318-0-0-6d4fee877d2bdcb6591dee34022d4bf8&auth_key=1632290318-0-0-591221629c18137a15b8cfa90027cd5f
+#EXTINF:-1 tvg-id="GuangDongJingJiKeJiao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东经济科教
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
 #EXTINF:-1 tvg-id="GuangDongNanFangWeiShiDiMian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东南方卫视地面
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=9&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
-#EXTINF:-1 tvg-id="GuangDongZhuJiang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东珠江 (1080p)
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-
-#EXTINF:-1 tvg-id="GuangDongGongGong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东公共
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=85&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-
-#EXTINF:-1 tvg-id="GuangDongJingJiKeJiao.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东经济科教
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=20&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-
-#EXTINF:-1 tvg-id="GuangDongJiaJiaQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东嘉佳卡通
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=130&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-
-#EXTINF:-1 tvg-id="GuangDongShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东少儿
-http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=83&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+#EXTINF:-1 tvg-id="GuangDongZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东综艺
+http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
 #EXTINF:-1 tvg-id="GuangDongYingShi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东影视 (576p)
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=86&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
+#EXTINF:-1 tvg-id="GuangDongShaoEr.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东少儿
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=83&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
+#EXTINF:-1 tvg-id="GuangDongGongGong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东公共
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=85&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
+#EXTINF:-1 tvg-id="GuangDongJiaJiaQiaTong.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东嘉佳卡通
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=130&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
+
 #EXTINF:-1 tvg-id="GuangDongXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东新闻
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=84&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
-
-#EXTINF:-1 tvg-id="GuangDongZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东综艺
-http://116.199.5.52:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=79&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",东莞综合
 http://149.129.100.78/dg.php?id=4
