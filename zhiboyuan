@@ -177,6 +177,9 @@ http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 #EXTINF:-1 tvg-id="GuangDongXinWen.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="广东",广东新闻
 http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Fsv_chan_hls_se_idx=84&Fsv_cid=0&Fsv_ctype=LIVES&Fsv_ctype=LIVES&Fsv_filetype=1&Fsv_otype=1&Fsv_otype=1&Fsv_rate_id=0&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=
 
+#EXTINF:-1 tvg-id="GuangDongTiYu.cn" tvg-country="" tvg-language="" tvg-logo="" group-title="广东",广东体育高清
+http://pullhls3948069e.live.126.net/live/1b29de70e38c5aa81b456b2c551acc85/playlist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="广东",东莞综合
 http://149.129.100.78/dg.php?id=4
 
