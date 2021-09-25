@@ -280,76 +280,76 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 tvg-id="DisneyJuniorAsia.us" tvg-country="ASIA" tvg-language="" tvg-logo="" group-title="",Disney Junior Asia (720p)
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NewTVZhongGuoGongFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV中国功夫 (1080p)
+#EXTINF:-1 tvg-id="NewTVZhongGuoGongFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV中国功夫 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJunShiPingLun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV军事评论 (1080p)
+#EXTINF:-1 tvg-id="NewTVJunShiPingLun.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV军事评论 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJunLuJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV军旅剧场 (1080p)
+#EXTINF:-1 tvg-id="NewTVJunLuJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV军旅剧场 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVNongYeZhiFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV农业致富 (1080p)
+#EXTINF:-1 tvg-id="NewTVNongYeZhiFu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV农业致富 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVDongHuaWangGuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV动画王国 (1080p)
+#EXTINF:-1 tvg-id="NewTVDongHuaWangGuo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV动画王国 (1080p)
 http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVGuZhuangJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV古装剧场 (1080p)
+#EXTINF:-1 tvg-id="NewTVGuZhuangJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV古装剧场 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVWanMeiYouXi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV完美遊戲 (1080p)
+#EXTINF:-1 tvg-id="NewTVWanMeiYouXi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV完美遊戲 (1080p)
 http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJiaTingJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV家庭剧场 (1080p)
+#EXTINF:-1 tvg-id="NewTVJiaTingJuChang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV家庭剧场 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVYiBanJianKang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV怡伴健康 (1080p)
+#EXTINF:-1 tvg-id="NewTVYiBanJianKang.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV怡伴健康 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVBoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV搏击
+#EXTINF:-1 tvg-id="NewTVBoJi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV搏击
 http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226803/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVMingXingDaPian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV明星大片 (1080p)
+#EXTINF:-1 tvg-id="NewTVMingXingDaPian.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV明星大片 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVWuBoShiJie.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV武搏世界 (1080p)
+#EXTINF:-1 tvg-id="NewTVWuBoShiJie.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV武搏世界 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVChaoMaLaPo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV潮妈辣婆 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoMaLaPo.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV潮妈辣婆 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVXuanWuWeiLai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV炫舞未来 (1080p)
+#EXTINF:-1 tvg-id="NewTVXuanWuWeiLai.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV炫舞未来 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVAiQingXiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV爱情喜剧 (1080p)
+#EXTINF:-1 tvg-id="NewTVAiQingXiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV爱情喜剧 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品体育 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV精品体育 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品大剧 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinDaJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV精品大剧 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品纪录 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinJiLu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV精品纪录 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV精品電影 (1080p)
+#EXTINF:-1 tvg-id="NewTVJingPinDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV精品電影 (1080p)
 http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级体育 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiTiYu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV超级体育 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电影 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiDianYing.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV超级电影 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVChaoJiDianShiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级电视剧 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiDianShiJu.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV超级电视剧 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVChaoJiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV超级综艺 (1080p)
+#EXTINF:-1 tvg-id="NewTVChaoJiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV超级综艺 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 
-#EXTINF:-1 tvg-id="NewTVJinPaiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="",NewTV金牌综艺 (1080p)
+#EXTINF:-1 tvg-id="NewTVJinPaiZongYi.cn" tvg-country="CN" tvg-language="Chinese" tvg-logo="" group-title="NewTV",NewTV金牌综艺 (1080p)
 http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 
 #EXTINF:-1 tvg-id="PeaceTVChinese.ae" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://github.com/fawazahmed0/tiger/raw/master/peace/chinese.jpg" group-title="",Peace TV Chinese (1080p)
