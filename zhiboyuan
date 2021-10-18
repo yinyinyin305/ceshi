@@ -2227,3 +2227,5 @@ http://stream.lytv.net.cn/2/sd/live.m3u8
 
 #EXTINF:-1,小儿郎
 http://dyscdnali1.douyucdn.cn/live/221869rnKAoS0AvF.flv?uuid=
+#EXTINF:-1,猫和老鼠
+https://cn-gdst-cmcc-live-01.bilivideo.com/live-bvc/542842/live_2370062_9705826.m3u8?cdn=cn-gotcha01&expires=1634033864&len=0&oi=3746214380&pt=h5&qn=10000&trid=1003342ff3e22998419da63796120882396a&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=45c838ca6994fa393c2bd70ce7ca6901&ptype=0&src=5&sl=2&sid=6870&sk=200bc0f0d7b4f7af2c2c4f2f1a7a7f60&order=1
